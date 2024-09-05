@@ -38,12 +38,12 @@ cd credit-card-fraud-detection
 
 ```
 
-# Run the Jupyter Notebook: Open the credit-card-fraud-detection.ipynb file using Jupyter Notebook or Jupyter Lab and run the cells sequentially.
+Run the Jupyter Notebook: Open the credit-card-fraud-detection.ipynb file using Jupyter Notebook or Jupyter Lab and run the cells sequentially.
 
-# Explore and Modify: Feel free to modify the code to experiment with different models, parameters, and data processing techniques.
+Explore and Modify: Feel free to modify the code to experiment with different models, parameters, and data processing techniques.
 
 ## Results
 The models are evaluated using metrics like ROC-AUC, accuracy, precision, and recall. The project concludes with a comparison of the models' performance, highlighting the most effective approach for this particular dataset.
 
 ## References
-# Original dataset: Kaggle - Credit Card Fraud Detection
+Original dataset: Kaggle - Credit Card Fraud Detection
