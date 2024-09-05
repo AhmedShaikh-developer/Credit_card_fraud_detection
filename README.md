@@ -27,3 +27,23 @@ To run the code in this project, you need to have Python 3.x installed along wit
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly scikit-learn catboost lightgbm xgboost
+
+```
+## Usage
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/credit-card-fraud-detection.git
+cd credit-card-fraud-detection
+
+```
+
+# Run the Jupyter Notebook: Open the credit-card-fraud-detection.ipynb file using Jupyter Notebook or Jupyter Lab and run the cells sequentially.
+
+# Explore and Modify: Feel free to modify the code to experiment with different models, parameters, and data processing techniques.
+
+## Results
+The models are evaluated using metrics like ROC-AUC, accuracy, precision, and recall. The project concludes with a comparison of the models' performance, highlighting the most effective approach for this particular dataset.
+
+## References
+# Original dataset: Kaggle - Credit Card Fraud Detection
